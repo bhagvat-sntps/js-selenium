@@ -23,7 +23,7 @@ steps
 
 ## advantages of suing docker
 
-- script is not getting updated due to chrome update
-- script is not working due to machine changed
-- run script in older versions of browser
-- Everyone need the configuration on their machine to execute the tests
+- avoid issues like script is not getting updated due to chrome update
+- avoid issues like script is not working due to machine changed
+- run script in older/any versions of browser quickly
+- Docker solved the problem of machine compatibility
